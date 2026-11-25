@@ -1,4 +1,4 @@
-👋 Hi, I'm Ayushi Agarwal — a Data Analyst with a B.Tech in Computer Science and a passion for turning messy data into clear, actionable insights.
+👋 Hi, I'm Ayushi Agarwal — pursuing M.Tech in Computer Science and a passion for turning messy data into clear, actionable insights.
 🏭 I've worked across electronics manufacturing and financial research, helping teams make smarter decisions through dashboards, analysis, and storytelling.
 🛠️ My toolkit: SQL · Python (Pandas, NumPy, Matplotlib, Seaborn) · Power BI · Tableau · Excel · Scikit-learn
 📌 What I do:
